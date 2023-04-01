@@ -1,0 +1,8 @@
+﻿  snake.cpp
+C:\Users\hewer\source\repos\snake\snake\snake.cpp(35,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Gerando código
+  1 of 10 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  snake.vcxproj -> C:\Users\hewer\source\repos\snake\x64\Release\snake.exe
